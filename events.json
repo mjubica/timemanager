@@ -1,0 +1,14 @@
+[
+    {
+        "title": "All day",
+        "start": "Thu Mar 10 2022 00:00:00 GMT+0100" ,
+        "end": "Fri Mar 11 2022 00:00:00 GMT+0100 ",
+        "allDay": true
+    },
+    {
+        "title": "Single Event",
+        "start": "Thu Mar 24 2022 08:00:00 GMT+010",
+        "end": "Thu Mar 24 2022 08:30:00 GMT+010",
+        "allDay": false
+    }
+  ]
